@@ -1,4 +1,4 @@
-# DAC - Ejercicio 1
+# DAC - Cambio
 Se desea implementar una solución al problema de la moneda. Es decir, dado un conjunto de monedas y un cambio a devolver, se quiere saber la cantidad minima de monedas a usar para devolver el cambio.
 
 > Nota: siempre se puede devolver el cambio ya que en todos los casos existe la moneda unitaria (de 1).
