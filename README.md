@@ -3,6 +3,8 @@ Se desea implementar una solución al problema de la moneda. Es decir, dado un c
 
 > Nota: siempre se puede devolver el cambio ya que en todos los casos existe la moneda unitaria (de 1).
 
+> Nota 2: Se sugiere ir por una tactica de decrease and conquer.
+
 ## Formato de entrada
 M
 m1
