@@ -29,7 +29,7 @@ cC \
 2 \
 2 \
 20 \
-16 \
+16
 
 Tenemos tres tipos de monedas (1, 5 y 2) y tenemos que resolver el cambio de 20 y de 16.
 
